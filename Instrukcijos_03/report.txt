@@ -1,0 +1,214 @@
+QUERY1
+17
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Jenny Druddle, kursas: 1, balu vidurkis: 0.00, kursu skaicius: 0
+    Kalbos: English Spanish
+
+Pilnas vardas: Jim Wood, kursas: 4, balu vidurkis: 0.00, kursu skaicius: 0
+    Kalbos: English Russian Lithuanian
+
+Pilnas vardas: Julie Leben, kursas: 4, balu vidurkis: 0.00, kursu skaicius: 0
+    Kalbos: English Spanish
+
+...
+
+QUERY2
+882
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Julie Wozniak, kursas: 4, balu vidurkis: 6.33, kursu skaicius: 3
+    Paskaita: Philosophy, balas: 9
+    Paskaita: Operating systems, balas: 2
+    Paskaita: Set theory, balas: 8
+    Kalbos: English Russian Spanish
+
+Pilnas vardas: Kim Sadman, kursas: 3, balu vidurkis: 7.00, kursu skaicius: 1
+    Paskaita: Computer networks, balas: 7
+    Kalbos: English
+
+Pilnas vardas: Debora Stapleton, kursas: 3, balu vidurkis: 8.33, kursu skaicius: 3
+    Paskaita: Computer programming, balas: 6
+    Paskaita: Set theory, balas: 10
+    Paskaita: Computer networks, balas: 9
+    Kalbos: English French
+
+...
+
+QUERY3
+780
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Julie Wozniak, kursas: 4, balu vidurkis: 6.33, kursu skaicius: 3
+    Paskaita: Philosophy, balas: 9
+    Paskaita: Operating systems, balas: 2
+    Paskaita: Set theory, balas: 8
+    Kalbos: English Russian Spanish
+
+Pilnas vardas: Kim Sadman, kursas: 3, balu vidurkis: 7.00, kursu skaicius: 1
+    Paskaita: Computer networks, balas: 7
+    Kalbos: English
+
+Pilnas vardas: Debora Stapleton, kursas: 3, balu vidurkis: 8.33, kursu skaicius: 3
+    Paskaita: Computer programming, balas: 6
+    Paskaita: Set theory, balas: 10
+    Paskaita: Computer networks, balas: 9
+    Kalbos: English French
+
+...
+
+QUERY4
+496
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Kim Sadman, kursas: 3, balu vidurkis: 7.00, kursu skaicius: 1
+    Paskaita: Computer networks, balas: 7
+    Kalbos: English
+
+Pilnas vardas: Debora Stapleton, kursas: 3, balu vidurkis: 8.33, kursu skaicius: 3
+    Paskaita: Computer programming, balas: 6
+    Paskaita: Set theory, balas: 10
+    Paskaita: Computer networks, balas: 9
+    Kalbos: English French
+
+Pilnas vardas: Jim Hat, kursas: 3, balu vidurkis: 7.00, kursu skaicius: 6
+    Paskaita: Computer programming, balas: 4
+    Paskaita: Physics, balas: 9
+    Paskaita: Operating systems, balas: 5
+    Paskaita: Algorithms, balas: 8
+    Paskaita: Calculus, balas: 6
+    Paskaita: Algebra, balas: 10
+    Kalbos: English
+
+...
+
+QUERY5
+241
+999 irasai uzkrauti sekmingai
+Pilnas vardas: George Perry, kursas: 2, balu vidurkis: 6.00, kursu skaicius: 2
+    Paskaita: Discrete mathematics, balas: 10
+    Paskaita: Algorithms, balas: 2
+    Kalbos: English Russian
+
+Pilnas vardas: George Sheen, kursas: 3, balu vidurkis: 6.20, kursu skaicius: 5
+    Paskaita: Computer programming, balas: 8
+    Paskaita: Physics, balas: 6
+    Paskaita: Operating systems, balas: 1
+    Paskaita: Operating systems, balas: 10
+    Paskaita: Algebra, balas: 6
+    Kalbos: English Russian Lithuanian
+
+Pilnas vardas: Robert Smith, kursas: 3, balu vidurkis: 6.50, kursu skaicius: 2
+    Paskaita: Algebra, balas: 7
+    Paskaita: Physics, balas: 6
+    Kalbos: English
+
+...
+
+QUERY7
+174
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Kim Sadman, kursas: 3, balu vidurkis: 7.00, kursu skaicius: 1
+    Paskaita: Computer networks, balas: 7
+    Kalbos: English
+
+Pilnas vardas: Robert Smith, kursas: 3, balu vidurkis: 6.50, kursu skaicius: 2
+    Paskaita: Algebra, balas: 7
+    Paskaita: Physics, balas: 6
+    Kalbos: English
+
+Pilnas vardas: Matt Davison, kursas: 2, balu vidurkis: 8.00, kursu skaicius: 1
+    Paskaita: Algorithms, balas: 8
+    Kalbos: English Russian French
+
+...
+
+QUERY8
+20
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Karl Sadman, kursas: 2, balu vidurkis: 7.75, kursu skaicius: 4
+    Paskaita: Algebra, balas: 10
+    Paskaita: Calculus, balas: 5
+    Paskaita: Computer networks, balas: 9
+    Paskaita: Physics, balas: 7
+    Kalbos: English French
+
+Pilnas vardas: Arnold Brightman, kursas: 4, balu vidurkis: 6.67, kursu skaicius: 3
+    Paskaita: Algebra, balas: 9
+    Paskaita: Calculus, balas: 6
+    Paskaita: Computer networks, balas: 8
+    Kalbos: English
+
+Pilnas vardas: Jerry Gibson, kursas: 3, balu vidurkis: 7.75, kursu skaicius: 4
+    Paskaita: Algebra, balas: 7
+    Paskaita: Calculus, balas: 7
+    Paskaita: Algebra, balas: 10
+    Paskaita: Algorithms, balas: 7
+    Kalbos: English Russian French
+
+...
+
+QUERY10
+278
+999 irasai uzkrauti sekmingai
+Pilnas vardas: George Sheen, kursas: 3, balu vidurkis: 6.20, kursu skaicius: 5
+    Paskaita: Computer programming, balas: 8
+    Paskaita: Physics, balas: 6
+    Paskaita: Operating systems, balas: 1
+    Paskaita: Operating systems, balas: 10
+    Paskaita: Algebra, balas: 6
+    Kalbos: English Russian Lithuanian
+
+Pilnas vardas: Kylie Hudson, kursas: 4, balu vidurkis: 6.25, kursu skaicius: 4
+    Paskaita: Physics, balas: 9
+    Paskaita: Computer networks, balas: 6
+    Paskaita: Discrete mathematics, balas: 3
+    Paskaita: Operating systems, balas: 7
+    Kalbos: English French Lithuanian
+
+Pilnas vardas: Jim Hudson, kursas: 3, balu vidurkis: 8.00, kursu skaicius: 5
+    Paskaita: Physics, balas: 9
+    Paskaita: Set theory, balas: 6
+    Paskaita: Algorithms, balas: 9
+    Paskaita: Computer programming, balas: 10
+    Paskaita: Computer programming, balas: 6
+    Kalbos: English Lithuanian
+
+...
+
+QUERY12
+8
+999 irasai uzkrauti sekmingai
+Pilnas vardas: Robert Wozniak, kursas: 2, balu vidurkis: 4.00, kursu skaicius: 1
+    Paskaita: Computer programming, balas: 4
+    Kalbos: English Russian Spanish French Lithuanian
+
+Pilnas vardas: Helen de Vito, kursas: 1, balu vidurkis: 5.67, kursu skaicius: 6
+    Paskaita: Computer programming, balas: 5
+    Paskaita: Computer programming, balas: 7
+    Paskaita: Operating systems, balas: 7
+    Paskaita: Computer networks, balas: 5
+    Paskaita: Discrete mathematics, balas: 9
+    Paskaita: Computer networks, balas: 1
+    Kalbos: English Russian Spanish French Lithuanian
+
+Pilnas vardas: Eve Madsen, kursas: 3, balu vidurkis: 5.50, kursu skaicius: 2
+    Paskaita: Calculus, balas: 4
+    Paskaita: Algorithms, balas: 7
+    Kalbos: English Russian Spanish French Lithuanian
+
+...
+
+QUERY15
+59
+999 irasai uzkrauti sekmingai
+Best student: 10.00Pilnas vardas: Sole Smith, kursas: 4, balu vidurkis: 9.50, kursu skaicius: 2
+    Paskaita: Algebra, balas: 9
+    Paskaita: Algorithms, balas: 10
+    Kalbos: English
+
+Pilnas vardas: Melissa Lockwood, kursas: 2, balu vidurkis: 9.00, kursu skaicius: 1
+    Paskaita: Algorithms, balas: 9
+    Kalbos: English Russian French Lithuanian
+
+Pilnas vardas: Angelina Darry, kursas: 1, balu vidurkis: 10.00, kursu skaicius: 1
+    Paskaita: Set theory, balas: 10
+    Kalbos: English
+
+...
